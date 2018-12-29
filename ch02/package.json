@@ -1,0 +1,20 @@
+{
+  "name": "ch02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "skelton.js",
+  "scripts": {
+    "main": "node skelton.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
